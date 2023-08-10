@@ -1,0 +1,1 @@
+GitHub Desktop no reconoce cambios cuando hay una carpeta vacia
